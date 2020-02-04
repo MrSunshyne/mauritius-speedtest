@@ -1,38 +1,5 @@
-{
-    "LION": {
-        "type": "result",
-        "timestamp": "2020-02-04T11:47:35Z",
-        "ping": {
-            "jitter": 11.635,
-            "latency": 91.409
-        },
-        "download": {
-            "bandwidth": 2435874,
-            "bytes": 29415504,
-            "elapsed": 15014
-        },
-        "upload": {
-            "bandwidth": 498368,
-            "bytes": 6889088,
-            "elapsed": 15015
-        },
-        "packetLoss": 0,
-        "isp": "Mauritius Telecom",
-        "server": {
-            "id": 17987,
-            "name": "TELMA",
-            "location": "Antananarivo",
-            "country": "MG",
-            "host": "speedtest.telma.mg",
-            "port": 8080,
-            "ip": "41.188.35.93"
-        },
-        "result": {
-            "id": "321a83eb-3f36-444e-8aca-1fc919ae5baf",
-            "url": "https://www.speedtest.net/result/c/321a83eb-3f36-444e-8aca-1fc919ae5baf"
-        }
-    },
-    "SAFE1": {
+[
+    {
         "type": "result",
         "timestamp": "2020-02-04T11:48:12Z",
         "ping": {
@@ -65,7 +32,7 @@
             "url": "https://www.speedtest.net/result/c/ca177bc9-734e-479a-92db-ad9677d47317"
         }
     },
-    "SAFE2": {
+    {
         "type": "result",
         "timestamp": "2020-02-04T11:48:45Z",
         "ping": {
@@ -98,7 +65,7 @@
             "url": "https://www.speedtest.net/result/c/e105ce12-9f52-43e3-961d-9eb6fdd9d366"
         }
     },
-    "SAFE3": {
+    {
         "type": "result",
         "timestamp": "2020-02-04T11:49:13Z",
         "ping": {
@@ -130,38 +97,5 @@
             "id": "07d25337-7630-4340-a827-654622eeae05",
             "url": "https://www.speedtest.net/result/c/07d25337-7630-4340-a827-654622eeae05"
         }
-    },
-    "MARS": {
-        "type": "result",
-        "timestamp": "2020-02-04T11:49:48Z",
-        "ping": {
-            "jitter": 11.149,
-            "latency": 154.547
-        },
-        "download": {
-            "bandwidth": 1364871,
-            "bytes": 19069400,
-            "elapsed": 15007
-        },
-        "upload": {
-            "bandwidth": 306378,
-            "bytes": 4667932,
-            "elapsed": 15011
-        },
-        "packetLoss": 0,
-        "isp": "Mauritius Telecom",
-        "server": {
-            "id": 27454,
-            "name": "Emtel Ltd",
-            "location": "Port Mathurin",
-            "country": "Mauritius",
-            "host": "speedtest5-1g.emtelnet.com",
-            "port": 8080,
-            "ip": "102.163.98.18"
-        },
-        "result": {
-            "id": "5b71bfac-5094-4353-b137-76059c45afba",
-            "url": "https://www.speedtest.net/result/c/5b71bfac-5094-4353-b137-76059c45afba"
-        }
     }
-}
+]
